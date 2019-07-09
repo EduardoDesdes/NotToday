@@ -59,6 +59,9 @@ El cual generará un fichero llamado ***key.txt***. Y ahora usaremos el fichero 
 ## Creditos
 
 Autor: ***Eduardo Sarria (Desdes)***
+
 Facebook: [https://www.facebook.com/eduardo.s.desdes](https://www.facebook.com/eduardo.s.desdes)
+
 Linkedin: [https://www.linkedin.com/in/eduardodesdes/](https://www.linkedin.com/in/eduardodesdes/)
+
 OpenBugBounty: [https://www.openbugbounty.org/researchers/EduardoDesdes/](https://www.openbugbounty.org/researchers/EduardoDesdes/)
