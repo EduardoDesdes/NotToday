@@ -2,7 +2,7 @@
 
 ----
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status]]
 
 NotToday en un ransomware programado en Bash Scripting de uso para distribuciones Ubuntu y derivados. Creado para la demostracion del funcionamiento de un ransomware y el impacto que este puede desmebocar en un computador. Así mismo el codigo aquí expuesto esta sujeto a cambio y actualizaciones de manera que se logre un malware mucho mas completo.
 
